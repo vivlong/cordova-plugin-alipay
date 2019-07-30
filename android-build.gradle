@@ -1,0 +1,7 @@
+repositories {
+  jcenter()
+}
+
+dependencies {
+  implementation (name: 'alipaySdk-15.6.5-20190718211159', ext: 'aar')
+}
