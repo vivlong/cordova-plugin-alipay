@@ -47,7 +47,6 @@ public class Alipay extends CordovaPlugin {
             res = false;
             callbackContext.error(unsupported_param + obj);
             }
-                  
         return res;
     }
 

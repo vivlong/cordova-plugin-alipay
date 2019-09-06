@@ -1,4 +1,7 @@
 repositories {
+  flatDir {
+    dirs 'libs'
+  }
   jcenter()
 }
 
